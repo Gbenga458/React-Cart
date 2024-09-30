@@ -10,7 +10,7 @@ export default [
     id: 2,
     title: 'google pixel ',
     price: 499.99,
-    image: 'https://www.jbhifi.com.au/cdn/shop/products/662710-Product-0-I-638302499403423176.jpg?v=1707971721',
+    image: 'https://assets.techrepublic.com/uploads/2024/08/pixel-9-aug-24-copy.jpg',
     amount: 1,
   },
   {
